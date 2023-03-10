@@ -1,2 +1,1 @@
-#!/bin/bash
-chmod -R u+X,go+X,go+X
+#!/bin/bashind -type d chmod +111
