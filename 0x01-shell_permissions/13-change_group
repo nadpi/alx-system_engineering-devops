@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir su -g school hello
+su -g school hello
