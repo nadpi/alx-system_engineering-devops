@@ -1,1 +1,2 @@
-#!/bin/bashind -type d chmod +111
+#!/bin/bash
+find -type d chmod +111
