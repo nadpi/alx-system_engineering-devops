@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "0" /etc/passwd | echo "hello user"
+echo "hello $USER"
