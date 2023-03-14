@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lR -a
+find . -type d -not -name . 
