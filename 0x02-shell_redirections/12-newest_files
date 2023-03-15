@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -anewer * -print 
+ls -lt | head
