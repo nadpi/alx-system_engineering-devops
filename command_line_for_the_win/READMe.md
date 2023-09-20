@@ -1,8 +1,7 @@
 CMD CHALLENGE is a pretty cool game challenging you on Bash skills. Everything is done via the command line and the questions are becoming increasingly complicated. It’s a good training to improve your command line skills!
 
 0. First 九 tasks
-Complete the first 9 tasks.
-
+Complete the first 9 tasks.\n
 File: 0-first_9_tasks.jpg,0-first_9_tasks.png
 
 2. Reach חי completed tasks
