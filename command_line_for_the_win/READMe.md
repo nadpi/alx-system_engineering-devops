@@ -2,19 +2,19 @@ CMD CHALLENGE is a pretty cool game challenging you on Bash skills. Everything i
 
 0. First 九 tasks
 
-Complete the first 9 tasks.
+->Complete the first 9 tasks.
 
 File: 0-first_9_tasks.jpg,0-first_9_tasks.png
 
 1. Reach חי completed tasks
 
-Complete the 9 next tasks, getting to 18 total.
+->Complete the 9 next tasks, getting to 18 total.
 
 File: 1-next_9_tasks.jpg,1-next_9_tasks.png
 
 2. Reach the perfect cube, 27
 
-Complete the 9 next tasks, getting to 27 total.
+->Complete the 9 next tasks, getting to 27 total.
 
 File: 2-next_9_tasks.jpg,2-next_9_tasks.png
 
