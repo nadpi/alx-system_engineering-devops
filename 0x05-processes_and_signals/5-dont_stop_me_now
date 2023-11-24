@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #a Bash script that stops 4-to_infinity_and_beyond process.
-kill -2 4-to_infinity_and_beyond
-
+p=$(ps -n bash)
+kill -2 "$p"
