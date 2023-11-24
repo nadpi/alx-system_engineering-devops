@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 #a Bash script that displays To infinity and beyond indefinitely.
-kill 2 bash
+p=$(ps -n bash)
+kill 2 $p
